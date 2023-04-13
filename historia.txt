@@ -18,3 +18,5 @@ ensayando cambios en el archivo remoto
 hoy 13 de abril agrego carpetas con imagenes 
 y modifico en la rama header
 
+RAMA OTRO TIPO:ENSAYANDO CODIGOS
+
