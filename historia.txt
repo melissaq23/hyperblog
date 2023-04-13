@@ -12,3 +12,7 @@ hoy es 12 de abril de 2023.
 ensayando cambios en los archivos locales 
 
 ensayando cambios en el archivo remoto 
+
+hoy 13 de abril agrego carpetas con imagenes 
+y modifico en la rama header
+
