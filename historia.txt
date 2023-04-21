@@ -18,7 +18,12 @@ ensayando cambios en el archivo remoto
 hoy 13 de abril agrego carpetas con imagenes 
 y modifico en la rama header
 
+
+master 1
+
 RAMA OTRO TIPO:ENSAYANDO CODIGOS
 
 CORRECION RAMA OTRO TIPO: 123345
+
+
 
